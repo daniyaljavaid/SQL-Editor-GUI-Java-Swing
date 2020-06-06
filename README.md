@@ -11,6 +11,21 @@ A light weight Sql GUI tool used visualize database and perform operations.
 5. Filtering columns
 
 
+![](samples/connection.png)
+
+
+![](samples/table1.png)
+
+
+![](samples/table2.png)
+
+
+![](samples/add.png)
+
+
+![](samples/search_filter.png)
+
+
 **What's used:**
 
 1. Language: JAVA
