@@ -11,19 +11,19 @@ A light weight Sql GUI tool used visualize database and perform operations.
 5. Filtering columns
 
 
-![](samples/connection.png)
+<image src="samples/connection.png" width= 400>
 
 
-![](samples/table1.png)
+<image src="samples/table1.png" width= 600>
 
 
-![](samples/table2.png)
+<image src="samples/table2.png" width= 600>
 
 
-![](samples/add.png)
+<image src="samples/add.png" width= 400>
 
 
-![](samples/search_filter.png)
+<image src="samples/search_filter.png" width= 400>
 
 
 **What's used:**
