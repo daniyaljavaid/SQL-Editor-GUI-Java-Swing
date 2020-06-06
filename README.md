@@ -26,11 +26,17 @@ A light weight Sql GUI tool used visualize database and perform operations.
 <image src="samples/search_filter.png" width= 400>
 
 
+**Note:**
+
+Connection URL basically represents the connection string used by **java.sql.DriverManager** to get connection. This includes database(mysql/sqlserver/oracle), host url/ip, port and database name. Example connection strings can easily be found on internet. If you are unable to connect to database, bad connection string might be the cause.
+
+
 **What's used:**
 
 1. Language: JAVA
 2. Toolkit: Swing
-3. Architecture : MVC
+3. Architecture: MVC
+4. Driver: JDBC
 
 
 **What's next:**
